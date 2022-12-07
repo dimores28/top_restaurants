@@ -1,5 +1,4 @@
 <template>
-  <h2>E404</h2>
   <div>
     <div class="container">
       <NuxtLayout name="error">
